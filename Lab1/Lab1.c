@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
-	printf("Welcome to the QNX Momentics test  IDE\n");
+	printf("Welcome to my world \n");
 	return EXIT_SUCCESS;
 }
